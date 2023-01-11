@@ -13331,5 +13331,5 @@ end)
 local Section12 = SCRIPTSMAPTab:NewSection("script maps key & no key")
 
 Section12:NewButton("script maps more", "no key", function()
-loadstring(game:HttpGet("[https://github.com/thesshadow24124/knogs-osama-maps/edit/main/README.md](https://raw.githubusercontent.com/thesshadow24124/knogs-osama-maps/main/Knogs%20Osama%20hUB)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thesshadow24124/knogs-osama-maps/main/Knogs%20Osama%20hUB.md"))()
 end)
