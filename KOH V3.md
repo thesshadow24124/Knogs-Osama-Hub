@@ -13331,5 +13331,5 @@ end)
 local Section12 = SCRIPTSMAPTab:NewSection("script maps key & no key")
 
 Section12:NewButton("script maps more", "no key", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thesshadow24124/roblox-maps-knogs-script/main/.gitignore?token=GHSAT0AAAAAAB5IUICAWCPSEFMORO5RW5GGY55WAVA"))()
+loadstring(game:HttpGet("https://github.com/thesshadow24124/knogs-osama-maps/edit/main/README.md"))()
 end)
